@@ -1,0 +1,14 @@
+# Environments and secret keys
+.env
+*.env
+
+# Python Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+.DS_Store
