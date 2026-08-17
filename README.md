@@ -167,7 +167,6 @@ Voice Response
 When Gemini is available, the assistant can interpret incomplete or loosely phrased commands and map them to predefined desktop actions; otherwise, it uses a local keyword-based command parser.
 
 ## 👨‍💻 Author
-
 **Himanshu Bendale**
 
 GitHub: [@hmbendale21](https://github.com/hmbendale21)
